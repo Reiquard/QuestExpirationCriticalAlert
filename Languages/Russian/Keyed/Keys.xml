@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<RqQECA_Label_Hours>Оповещать критически, когда срок задания истекает меньше, чем через {0}ч.</RqQECA_Label_Hours>
+	<RqQECA_Label_Reminder>Приостановливать игру и отображать диалоговое окно за {0}ч до истечения срока задания.</RqQECA_Label_Reminder>
+
+</LanguageData>

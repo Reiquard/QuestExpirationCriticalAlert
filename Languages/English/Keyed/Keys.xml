@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<RqQECA_Label_Hours>Critical alert when the quest expires in {0}h.</RqQECA_Label_Hours>
+	<RqQECA_Label_Reminder>Notify with a dialog window {0}h before the quest expires. The game will also be paused.</RqQECA_Label_Reminder>
+
+</LanguageData>
